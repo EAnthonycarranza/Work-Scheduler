@@ -11,7 +11,7 @@ Here is a screenshot of the application:
 ## Live Demo
 
 Here is a live demo for the application here: 
-
+[Live Demo](https://eanthonycarranza.github.io/Work-Scheduler/)
 ## Features
 
 * Current day is displayed at the top of the planner.
